@@ -1,0 +1,15 @@
+ex01/.env
+ex01/.eslintrc.cjs
+ex01/.gitignore
+ex01/.prettierrc.json
+ex01/package.json
+ex01/index.html
+ex01/jsconfig.json
+ex01/package-lock.json
+ex01/postcss.config.js
+ex01/README.md
+ex01/tailwind.config.js
+ex01/vite.config.js
+ex01/img/bell.png
+ex01/img/bookmark.png
+ex01/.vscode/extensions.json
